@@ -35,7 +35,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var next_link__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(next_link__WEBPACK_IMPORTED_MODULE_2__);
 /* harmony import */ var _user_UserInfo__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../user/UserInfo */ "./components/user/UserInfo.js");
 /* harmony import */ var _user_UserAvatar__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ../user/UserAvatar */ "./components/user/UserAvatar.js");
-var _jsxFileName = "C:\\Users\\Shahnawaz\\Desktop\\nextjs\\next-env\\components\\navbar\\NavElements.js";
+var _jsxFileName = "C:\\Users\\Shahnawaz\\Desktop\\nextjs\\next-env-git\\components\\navbar\\NavElements.js";
 
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement;
@@ -183,7 +183,7 @@ function NavElements() {
   }))), __jsx(styled_jsx_style__WEBPACK_IMPORTED_MODULE_0___default.a, {
     id: "3892403625",
     __self: this
-  }, "h1.jsx-3892403625{display:inline;cursor:pointer;}ul.jsx-3892403625{display:inline;padding-left:'50px';}li.jsx-3892403625{display:inline;color:green;padding-right:10px;cursor:pointer;}li.jsx-3892403625:hover{color:blue;}\n/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIkM6XFxVc2Vyc1xcU2hhaG5hd2F6XFxEZXNrdG9wXFxuZXh0anNcXG5leHQtZW52XFxjb21wb25lbnRzXFxuYXZiYXJcXE5hdkVsZW1lbnRzLmpzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQTRDb0IsQUFHb0MsQUFJQSxBQUlBLEFBT3BCLFdBQUMsSUFkbUIsQUFLcEIsQUFHaUIsWUFDTyxHQVJ2QixLQUlBLFdBTUQsZUFBQyIsImZpbGUiOiJDOlxcVXNlcnNcXFNoYWhuYXdhelxcRGVza3RvcFxcbmV4dGpzXFxuZXh0LWVudlxcY29tcG9uZW50c1xcbmF2YmFyXFxOYXZFbGVtZW50cy5qcyIsInNvdXJjZXNDb250ZW50IjpbImltcG9ydCBMaW5rIGZyb20gJ25leHQvbGluayc7XHJcbmltcG9ydCBVc2VySW5mbyBmcm9tICcuLi91c2VyL1VzZXJJbmZvJztcclxuaW1wb3J0IFVzZXJBdmF0YXIgZnJvbSAnLi4vdXNlci9Vc2VyQXZhdGFyJztcclxuXHJcbmZ1bmN0aW9uIE5hdkVsZW1lbnRzKCkge1xyXG4gICAgcmV0dXJuIDxkaXY+XHJcbiAgICAgICAgPExpbmsgaHJlZj1cIi9cIiBhcz1cIi9cIj5cclxuICAgICAgICAgICAgPGgxPk5leHRKczwvaDE+XHJcbiAgICAgICAgPC9MaW5rPlxyXG4gICAgICAgIDx1bD5cclxuICAgICAgICAgICAgPExpbmsgaHJlZj1cIi9jc3NfZXhhbXBsZVwiIGFzPVwiL2Nzc19leGFtcGxlXCI+XHJcbiAgICAgICAgICAgICAgICA8bGk+XHJcbiAgICAgICAgICAgICAgICAgICAgTG9jYWwvR2xvYmFsIENTU1xyXG4gICAgICAgICAgICAgICAgPC9saT5cclxuICAgICAgICAgICAgPC9MaW5rPlxyXG4gICAgICAgICAgICA8TGluayBocmVmPVwiL2R5bmFtaWNfcm91dGluZ1wiIGFzPVwiL2R5bmFtaWNfcm91dGluZ1wiPlxyXG4gICAgICAgICAgICAgICAgPGxpPlxyXG4gICAgICAgICAgICAgICAgICAgIER5bmFtaWMgUm91dGluZ1xyXG4gICAgICAgICAgICAgICAgPC9saT5cclxuICAgICAgICAgICAgPC9MaW5rPlxyXG4gICAgICAgICAgICA8TGluayBocmVmPVwiL2hlYWRfcG9wdWxhdGlvblwiIGFzPVwiL2hlYWRfcG9wdWxhdGlvblwiPlxyXG4gICAgICAgICAgICAgICAgPGxpPlxyXG4gICAgICAgICAgICAgICAgICAgIEhlYWQgUG9wdWxhdGlvblxyXG4gICAgICAgICAgICAgICAgPC9saT5cclxuICAgICAgICAgICAgPC9MaW5rPlxyXG4gICAgICAgICAgICA8TGluayBocmVmPVwiL2RhdGFfZmV0Y2hcIiBhcz1cIi9kYXRhX2ZldGNoXCI+XHJcbiAgICAgICAgICAgICAgICA8bGk+XHJcbiAgICAgICAgICAgICAgICAgICAgRmV0Y2hpbmcgRGF0YVxyXG4gICAgICAgICAgICAgICAgPC9saT5cclxuICAgICAgICAgICAgPC9MaW5rPlxyXG4gICAgICAgICAgICA8TGluayBocmVmPVwiL3Bvc3RzXCIgYXM9XCIvcG9zdHNcIj5cclxuICAgICAgICAgICAgICAgIDxsaT5cclxuICAgICAgICAgICAgICAgICAgICBHZXQgUG9zdHNcclxuICAgICAgICAgICAgICAgIDwvbGk+XHJcbiAgICAgICAgICAgIDwvTGluaz5cclxuICAgICAgICAgICAgPExpbmsgaHJlZj1cIi9yZWFjdF9jb250ZXh0XCIgYXM9XCIvcmVhY3RfY29udGV4dFwiPlxyXG4gICAgICAgICAgICAgICAgPGxpPlxyXG4gICAgICAgICAgICAgICAgICAgIFJlYWN0IENvbnRleHRcclxuICAgICAgICAgICAgICAgIDwvbGk+XHJcbiAgICAgICAgICAgIDwvTGluaz5cclxuICAgICAgICAgICAgPGxpIHN0eWxlPXt7ZmxvYXQ6ICdyaWdodCcsIHBhZGRpbmdUb3A6ICcyMHB4J319PlxyXG4gICAgICAgICAgICAgICAgPFVzZXJBdmF0YXIvPlxyXG4gICAgICAgICAgICA8L2xpPlxyXG4gICAgICAgIDwvdWw+XHJcbiAgICAgICAgPHN0eWxlIGpzeD57YFxyXG4gICAgICAgICAgICAgICAgaDF7XHJcbiAgICAgICAgICAgICAgICAgICAgZGlzcGxheTogaW5saW5lO1xyXG4gICAgICAgICAgICAgICAgICAgIGN1cnNvcjogcG9pbnRlcjtcclxuICAgICAgICAgICAgICAgIH1cclxuICAgICAgICAgICAgICAgIHVsIHtcclxuICAgICAgICAgICAgICAgICAgICBkaXNwbGF5OiBpbmxpbmU7XHJcbiAgICAgICAgICAgICAgICAgICAgcGFkZGluZy1sZWZ0OiAnNTBweCdcclxuICAgICAgICAgICAgICAgIH1cclxuICAgICAgICAgICAgICAgIGxpIHtcclxuICAgICAgICAgICAgICAgICAgICBkaXNwbGF5OiBpbmxpbmU7XHJcbiAgICAgICAgICAgICAgICAgICAgY29sb3I6IGdyZWVuO1xyXG4gICAgICAgICAgICAgICAgICAgIHBhZGRpbmctcmlnaHQ6IDEwcHg7XHJcbiAgICAgICAgICAgICAgICAgICAgY3Vyc29yOiBwb2ludGVyXHJcbiAgICAgICAgICAgICAgICB9XHJcbiAgICAgICAgICAgICAgICBsaTpob3ZlciB7XHJcbiAgICAgICAgICAgICAgICAgICAgY29sb3I6IGJsdWVcclxuICAgICAgICAgICAgICAgIH1cclxuICAgICAgICBgfTwvc3R5bGU+XHJcbiAgICA8L2Rpdj5cclxufVxyXG5cclxuZXhwb3J0IGRlZmF1bHQgTmF2RWxlbWVudHM7Il19 */\n/*@ sourceURL=C:\\Users\\Shahnawaz\\Desktop\\nextjs\\next-env\\components\\navbar\\NavElements.js */"));
+  }, "h1.jsx-3892403625{display:inline;cursor:pointer;}ul.jsx-3892403625{display:inline;padding-left:'50px';}li.jsx-3892403625{display:inline;color:green;padding-right:10px;cursor:pointer;}li.jsx-3892403625:hover{color:blue;}\n/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIkM6XFxVc2Vyc1xcU2hhaG5hd2F6XFxEZXNrdG9wXFxuZXh0anNcXG5leHQtZW52LWdpdFxcY29tcG9uZW50c1xcbmF2YmFyXFxOYXZFbGVtZW50cy5qcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUE0Q29CLEFBR29DLEFBSUEsQUFJQSxBQU9wQixXQUFDLElBZG1CLEFBS3BCLEFBR2lCLFlBQ08sR0FSdkIsS0FJQSxXQU1ELGVBQUMiLCJmaWxlIjoiQzpcXFVzZXJzXFxTaGFobmF3YXpcXERlc2t0b3BcXG5leHRqc1xcbmV4dC1lbnYtZ2l0XFxjb21wb25lbnRzXFxuYXZiYXJcXE5hdkVsZW1lbnRzLmpzIiwic291cmNlc0NvbnRlbnQiOlsiaW1wb3J0IExpbmsgZnJvbSAnbmV4dC9saW5rJztcclxuaW1wb3J0IFVzZXJJbmZvIGZyb20gJy4uL3VzZXIvVXNlckluZm8nO1xyXG5pbXBvcnQgVXNlckF2YXRhciBmcm9tICcuLi91c2VyL1VzZXJBdmF0YXInO1xyXG5cclxuZnVuY3Rpb24gTmF2RWxlbWVudHMoKSB7XHJcbiAgICByZXR1cm4gPGRpdj5cclxuICAgICAgICA8TGluayBocmVmPVwiL1wiIGFzPVwiL1wiPlxyXG4gICAgICAgICAgICA8aDE+TmV4dEpzPC9oMT5cclxuICAgICAgICA8L0xpbms+XHJcbiAgICAgICAgPHVsPlxyXG4gICAgICAgICAgICA8TGluayBocmVmPVwiL2Nzc19leGFtcGxlXCIgYXM9XCIvY3NzX2V4YW1wbGVcIj5cclxuICAgICAgICAgICAgICAgIDxsaT5cclxuICAgICAgICAgICAgICAgICAgICBMb2NhbC9HbG9iYWwgQ1NTXHJcbiAgICAgICAgICAgICAgICA8L2xpPlxyXG4gICAgICAgICAgICA8L0xpbms+XHJcbiAgICAgICAgICAgIDxMaW5rIGhyZWY9XCIvZHluYW1pY19yb3V0aW5nXCIgYXM9XCIvZHluYW1pY19yb3V0aW5nXCI+XHJcbiAgICAgICAgICAgICAgICA8bGk+XHJcbiAgICAgICAgICAgICAgICAgICAgRHluYW1pYyBSb3V0aW5nXHJcbiAgICAgICAgICAgICAgICA8L2xpPlxyXG4gICAgICAgICAgICA8L0xpbms+XHJcbiAgICAgICAgICAgIDxMaW5rIGhyZWY9XCIvaGVhZF9wb3B1bGF0aW9uXCIgYXM9XCIvaGVhZF9wb3B1bGF0aW9uXCI+XHJcbiAgICAgICAgICAgICAgICA8bGk+XHJcbiAgICAgICAgICAgICAgICAgICAgSGVhZCBQb3B1bGF0aW9uXHJcbiAgICAgICAgICAgICAgICA8L2xpPlxyXG4gICAgICAgICAgICA8L0xpbms+XHJcbiAgICAgICAgICAgIDxMaW5rIGhyZWY9XCIvZGF0YV9mZXRjaFwiIGFzPVwiL2RhdGFfZmV0Y2hcIj5cclxuICAgICAgICAgICAgICAgIDxsaT5cclxuICAgICAgICAgICAgICAgICAgICBGZXRjaGluZyBEYXRhXHJcbiAgICAgICAgICAgICAgICA8L2xpPlxyXG4gICAgICAgICAgICA8L0xpbms+XHJcbiAgICAgICAgICAgIDxMaW5rIGhyZWY9XCIvcG9zdHNcIiBhcz1cIi9wb3N0c1wiPlxyXG4gICAgICAgICAgICAgICAgPGxpPlxyXG4gICAgICAgICAgICAgICAgICAgIEdldCBQb3N0c1xyXG4gICAgICAgICAgICAgICAgPC9saT5cclxuICAgICAgICAgICAgPC9MaW5rPlxyXG4gICAgICAgICAgICA8TGluayBocmVmPVwiL3JlYWN0X2NvbnRleHRcIiBhcz1cIi9yZWFjdF9jb250ZXh0XCI+XHJcbiAgICAgICAgICAgICAgICA8bGk+XHJcbiAgICAgICAgICAgICAgICAgICAgUmVhY3QgQ29udGV4dFxyXG4gICAgICAgICAgICAgICAgPC9saT5cclxuICAgICAgICAgICAgPC9MaW5rPlxyXG4gICAgICAgICAgICA8bGkgc3R5bGU9e3tmbG9hdDogJ3JpZ2h0JywgcGFkZGluZ1RvcDogJzIwcHgnfX0+XHJcbiAgICAgICAgICAgICAgICA8VXNlckF2YXRhci8+XHJcbiAgICAgICAgICAgIDwvbGk+XHJcbiAgICAgICAgPC91bD5cclxuICAgICAgICA8c3R5bGUganN4PntgXHJcbiAgICAgICAgICAgICAgICBoMXtcclxuICAgICAgICAgICAgICAgICAgICBkaXNwbGF5OiBpbmxpbmU7XHJcbiAgICAgICAgICAgICAgICAgICAgY3Vyc29yOiBwb2ludGVyO1xyXG4gICAgICAgICAgICAgICAgfVxyXG4gICAgICAgICAgICAgICAgdWwge1xyXG4gICAgICAgICAgICAgICAgICAgIGRpc3BsYXk6IGlubGluZTtcclxuICAgICAgICAgICAgICAgICAgICBwYWRkaW5nLWxlZnQ6ICc1MHB4J1xyXG4gICAgICAgICAgICAgICAgfVxyXG4gICAgICAgICAgICAgICAgbGkge1xyXG4gICAgICAgICAgICAgICAgICAgIGRpc3BsYXk6IGlubGluZTtcclxuICAgICAgICAgICAgICAgICAgICBjb2xvcjogZ3JlZW47XHJcbiAgICAgICAgICAgICAgICAgICAgcGFkZGluZy1yaWdodDogMTBweDtcclxuICAgICAgICAgICAgICAgICAgICBjdXJzb3I6IHBvaW50ZXJcclxuICAgICAgICAgICAgICAgIH1cclxuICAgICAgICAgICAgICAgIGxpOmhvdmVyIHtcclxuICAgICAgICAgICAgICAgICAgICBjb2xvcjogYmx1ZVxyXG4gICAgICAgICAgICAgICAgfVxyXG4gICAgICAgIGB9PC9zdHlsZT5cclxuICAgIDwvZGl2PlxyXG59XHJcblxyXG5leHBvcnQgZGVmYXVsdCBOYXZFbGVtZW50czsiXX0= */\n/*@ sourceURL=C:\\Users\\Shahnawaz\\Desktop\\nextjs\\next-env-git\\components\\navbar\\NavElements.js */"));
 }
 
 /* harmony default export */ __webpack_exports__["default"] = (NavElements);
@@ -202,7 +202,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var _NavElements__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./NavElements */ "./components/navbar/NavElements.js");
-var _jsxFileName = "C:\\Users\\Shahnawaz\\Desktop\\nextjs\\next-env\\components\\navbar\\Navbar.js";
+var _jsxFileName = "C:\\Users\\Shahnawaz\\Desktop\\nextjs\\next-env-git\\components\\navbar\\Navbar.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
@@ -239,7 +239,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var _contexts_user_context__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../contexts/user-context */ "./components/contexts/user-context.js");
-var _jsxFileName = "C:\\Users\\Shahnawaz\\Desktop\\nextjs\\next-env\\components\\user\\UserAvatar.js";
+var _jsxFileName = "C:\\Users\\Shahnawaz\\Desktop\\nextjs\\next-env-git\\components\\user\\UserAvatar.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
@@ -302,7 +302,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var _contexts_user_context__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../contexts/user-context */ "./components/contexts/user-context.js");
-var _jsxFileName = "C:\\Users\\Shahnawaz\\Desktop\\nextjs\\next-env\\components\\user\\UserInfo.js";
+var _jsxFileName = "C:\\Users\\Shahnawaz\\Desktop\\nextjs\\next-env-git\\components\\user\\UserInfo.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
@@ -5090,10 +5090,10 @@ module.exports = bind.call(Function.call, Object.prototype.hasOwnProperty);
 
 /***/ }),
 
-/***/ "./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F&absolutePagePath=C%3A%5CUsers%5CShahnawaz%5CDesktop%5Cnextjs%5Cnext-env%5Cpages%5Cindex.js!./":
-/*!**************************************************************************************************************************************************************************************!*\
-  !*** ./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F&absolutePagePath=C%3A%5CUsers%5CShahnawaz%5CDesktop%5Cnextjs%5Cnext-env%5Cpages%5Cindex.js ***!
-  \**************************************************************************************************************************************************************************************/
+/***/ "./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F&absolutePagePath=C%3A%5CUsers%5CShahnawaz%5CDesktop%5Cnextjs%5Cnext-env-git%5Cpages%5Cindex.js!./":
+/*!******************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F&absolutePagePath=C%3A%5CUsers%5CShahnawaz%5CDesktop%5Cnextjs%5Cnext-env-git%5Cpages%5Cindex.js ***!
+  \******************************************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -11589,7 +11589,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var _components_navbar_Navbar__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../components/navbar/Navbar */ "./components/navbar/Navbar.js");
-var _jsxFileName = "C:\\Users\\Shahnawaz\\Desktop\\nextjs\\next-env\\pages\\index.js";
+var _jsxFileName = "C:\\Users\\Shahnawaz\\Desktop\\nextjs\\next-env-git\\pages\\index.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
@@ -11620,14 +11620,14 @@ function Home() {
 
 /***/ }),
 
-/***/ 3:
-/*!******************************************************************************************************************************************!*\
-  !*** multi next-client-pages-loader?page=%2F&absolutePagePath=C%3A%5CUsers%5CShahnawaz%5CDesktop%5Cnextjs%5Cnext-env%5Cpages%5Cindex.js ***!
-  \******************************************************************************************************************************************/
+/***/ 0:
+/*!**********************************************************************************************************************************************!*\
+  !*** multi next-client-pages-loader?page=%2F&absolutePagePath=C%3A%5CUsers%5CShahnawaz%5CDesktop%5Cnextjs%5Cnext-env-git%5Cpages%5Cindex.js ***!
+  \**********************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! next-client-pages-loader?page=%2F&absolutePagePath=C%3A%5CUsers%5CShahnawaz%5CDesktop%5Cnextjs%5Cnext-env%5Cpages%5Cindex.js! */"./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F&absolutePagePath=C%3A%5CUsers%5CShahnawaz%5CDesktop%5Cnextjs%5Cnext-env%5Cpages%5Cindex.js!./");
+module.exports = __webpack_require__(/*! next-client-pages-loader?page=%2F&absolutePagePath=C%3A%5CUsers%5CShahnawaz%5CDesktop%5Cnextjs%5Cnext-env-git%5Cpages%5Cindex.js! */"./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F&absolutePagePath=C%3A%5CUsers%5CShahnawaz%5CDesktop%5Cnextjs%5Cnext-env-git%5Cpages%5Cindex.js!./");
 
 
 /***/ }),
@@ -11643,5 +11643,5 @@ module.exports = dll_ea92a4d9664833a26066;
 
 /***/ })
 
-},[[3,"static/runtime/webpack.js"]]]);
+},[[0,"static/runtime/webpack.js"]]]);
 //# sourceMappingURL=index.js.map

@@ -83,7 +83,7 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
-var _jsxFileName = "C:\\Users\\Shahnawaz\\Desktop\\nextjs\\next-env\\components\\providers\\programs-provider.js";
+var _jsxFileName = "C:\\Users\\Shahnawaz\\Desktop\\nextjs\\next-env-git\\components\\providers\\programs-provider.js";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_7___default.a.createElement;
 
 
@@ -166,7 +166,7 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
-var _jsxFileName = "C:\\Users\\Shahnawaz\\Desktop\\nextjs\\next-env\\components\\providers\\user-provider.js";
+var _jsxFileName = "C:\\Users\\Shahnawaz\\Desktop\\nextjs\\next-env-git\\components\\providers\\user-provider.js";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_7___default.a.createElement;
 
 
@@ -6502,7 +6502,7 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
-var _jsxFileName = "C:\\Users\\Shahnawaz\\Desktop\\nextjs\\next-env\\pages\\_app.js";
+var _jsxFileName = "C:\\Users\\Shahnawaz\\Desktop\\nextjs\\next-env-git\\pages\\_app.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement;
 

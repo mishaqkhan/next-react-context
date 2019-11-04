@@ -164,7 +164,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_1__);
 /* harmony import */ var _contexts_programs_context__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../contexts/programs-context */ "./components/contexts/programs-context.js");
 
-var _jsxFileName = "C:\\Users\\Shahnawaz\\Desktop\\nextjs\\next-env\\components\\providers\\programs-provider.js";
+var _jsxFileName = "C:\\Users\\Shahnawaz\\Desktop\\nextjs\\next-env-git\\components\\providers\\programs-provider.js";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement;
 
 
@@ -215,7 +215,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_1__);
 /* harmony import */ var _contexts_user_context__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../contexts/user-context */ "./components/contexts/user-context.js");
 
-var _jsxFileName = "C:\\Users\\Shahnawaz\\Desktop\\nextjs\\next-env\\components\\providers\\user-provider.js";
+var _jsxFileName = "C:\\Users\\Shahnawaz\\Desktop\\nextjs\\next-env-git\\components\\providers\\user-provider.js";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement;
 
 
@@ -776,7 +776,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var next_app__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(next_app__WEBPACK_IMPORTED_MODULE_2__);
 /* harmony import */ var _components_providers__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../components/providers */ "./components/providers/index.js");
 
-var _jsxFileName = "C:\\Users\\Shahnawaz\\Desktop\\nextjs\\next-env\\pages\\_app.js";
+var _jsxFileName = "C:\\Users\\Shahnawaz\\Desktop\\nextjs\\next-env-git\\pages\\_app.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement;
 
